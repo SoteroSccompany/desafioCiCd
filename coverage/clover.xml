@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1713825115749" clover="3.2.0">
-  <project timestamp="1713825115749" name="All files">
-    <metrics statements="9" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2" elements="15" coveredelements="12" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+<coverage generated="1713826023192" clover="3.2.0">
+  <project timestamp="1713826023192" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2" elements="15" coveredelements="14" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
     <file name="index.js" path="/Users/gabrielsotero/Desktop/FullCycleCodes/integracaoContinua/desafio/src/index.js">
-      <metrics statements="6" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
-      <line num="8" count="0" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
     </file>
     <file name="multiple.js" path="/Users/gabrielsotero/Desktop/FullCycleCodes/integracaoContinua/desafio/src/multiple.js">
