@@ -6,6 +6,8 @@ const checkIsPrime = (num) => {
         if (num % i === 0) return false;
     }
     return true;
+
+
 }
 
 module.exports = checkIsPrime;
